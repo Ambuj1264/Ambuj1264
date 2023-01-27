@@ -7,6 +7,7 @@
 - ✔ you can contact me on official mail - heyambujsingh@gmail.com
 
 - 🗼 My Education - Graduation - Bachelor of technology 
-  https://static.javatpoint.com/blog/images/mern-stack.png
+ 
+![mern-stack](https://user-images.githubusercontent.com/82210881/215179864-3eb7384a-7943-404b-a9f5-2db04e02ea83.png)
 
 
